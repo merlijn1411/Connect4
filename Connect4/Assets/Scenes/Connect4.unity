@@ -470,8 +470,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coinPrefabPrefabs:
-  - {fileID: 1755105956566360433, guid: cc69464314473664ab55ad9602eb4c67, type: 3}
   - {fileID: 8548669996706730980, guid: b53d65971a1db3441ae3c8cd4ac32a40, type: 3}
+  - {fileID: 1755105956566360433, guid: cc69464314473664ab55ad9602eb4c67, type: 3}
 --- !u!4 &961143950
 Transform:
   m_ObjectHideFlags: 0
@@ -1475,7 +1475,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16923d52385780c4ab5dc1bdf8d89f84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turnState: 1
+  turnState: 2
 --- !u!4 &1899863876
 Transform:
   m_ObjectHideFlags: 0

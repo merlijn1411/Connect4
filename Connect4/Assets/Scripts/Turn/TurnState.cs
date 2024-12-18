@@ -1,5 +1,5 @@
 public enum TurnState
 {
-    PlayerYellow = 1,
-    PlayerRed = 2,
+    PlayerRed = 1,
+    PlayerYellow = 2,
 }
